@@ -10,6 +10,7 @@ In this challenge, I've created a VBA script that loops through each sheet in th
   - Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
   - The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
   - The total stock volume of the stock.
+  - Stocks with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume" per year
 
 For ease of review, the following are screenshots of the results for each year,
 
